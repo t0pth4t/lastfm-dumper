@@ -3,3 +3,4 @@ node_modules
 toptracks.json
 *.ndjson
 *.nd.json
+config.json
